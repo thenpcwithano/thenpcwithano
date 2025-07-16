@@ -17,8 +17,7 @@ love2D 25%
 (those are the only 2 things i did)
 
 # friends
-Currently only https://github.com/LSPECTRONIZTAR
-
+none.
 # LINKS
 
 https://scratch.mit.edu/users/thenpcwithano/
