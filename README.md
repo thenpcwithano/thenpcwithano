@@ -4,7 +4,7 @@ lets start with the basics
 
 # WHAT IM INTERESTED IN:
 
-I'm interested in stuff like modding, friday night funkin, sonic games and lua (especially love2D)
+I'm interested in stuff like modding , sonic games and lua (especially love2D)
 
 # WHAT I LIKE:
 same stuff i'm interested in
@@ -22,8 +22,6 @@ Currently only https://github.com/LSPECTRONIZTAR
 # LINKS
 
 https://scratch.mit.edu/users/thenpcwithano/
-https://discord.gg/MCTFTmab2X
-https://www.youtube.com/@6464NPC
 
 
 
